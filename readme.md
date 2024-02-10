@@ -2,28 +2,28 @@ o objetivo deste projeto, NÃO É, ser um site funcionar e hospedado online, mas
 
 meu objetivo PESSOAL e testar e aprimorar meus conhecimentos, sendo assim, como uma parte viva do meu portifolio como programador
 
-animesFFA 0.1 >>
-    ferramentas utilizadas:
-        Design: figma/ adobe photoshop/ 
-        codigo: Visual Studio Code
+    animesFFA 0.1 >>
+        ferramentas utilizadas:
+            Design: figma/ adobe photoshop/ 
+            codigo: Visual Studio Code
         
-    Referencias:
-        crunchyroll
-        BetterAnimes
-        AnimesOnline
-        AnimesFire
-        HinataSoul
+        Referencias:
+            crunchyroll
+            BetterAnimes
+            AnimesOnline
+            AnimesFire
+            HinataSoul
 
-    Tecnologias usadas (até o momento)
-        Html
-        Css
-        Js
+        Tecnologias usadas (até o momento)
+            Html
+            Css
+            Js
 
-    Objetivos:
-        1- Criar um site funcional, navegavel onde se possa assistir os animes
-        2- implementar um sistema de criação de usuarios
-        3- sistema de validação de usuarios
-        4- sistema de personalização com base no usuario, como lista de favoritos, assistir de onde parou e etc.
+        Objetivos:
+            1- Criar um site funcional, navegavel onde se possa assistir os animes
+            2- implementar um sistema de criação de usuarios
+            3- sistema de validação de usuarios
+            4- sistema de personalização com base no usuario, como lista de favoritos, assistir de onde parou e etc.
 
 perfil do Github: https://github.com/Oluccassd
-Github do Projeto: 
+Github do Projeto: https://github.com/Oluccassd/AnimesFFA
